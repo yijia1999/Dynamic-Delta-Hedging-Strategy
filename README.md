@@ -40,7 +40,7 @@ Import interest, stock, and option data from CSV files.
 
 Calculate implied volatility, delta, hedging error, PNL, and export results to `result.csv`.
 
-Unit Testing
+- Unit Testing
 
 Tests `BSM_price`, `BSM_delta`, and `BSM_iv` using known values.
 
